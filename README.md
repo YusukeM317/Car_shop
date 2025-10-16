@@ -2,8 +2,6 @@
 
 ## Car sales page
 
-- **Preview**
-
   Page
 
 
